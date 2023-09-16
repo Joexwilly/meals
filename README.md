@@ -1,6 +1,6 @@
 # meals
 
-A new Flutter project.
+Meals app having Different meals under several Categories like Italian, Asian, Exotic, etc
 
 ## Getting Started
 
