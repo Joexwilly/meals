@@ -38,7 +38,7 @@ const availableCategories = [
   Category(
     id: 'c7',
     title: 'Breakfast',
-    color: Colors.lightBlue,
+    color: Colors.yellowAccent,
   ),
   Category(
     id: 'c8',
